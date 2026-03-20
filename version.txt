@@ -1,2 +1,2 @@
-1.1.0
+1.2.0
 https://github.com/IcebergBuilds/Auto-Grower/releases/download/1.2.0/AutoGrower.zip
